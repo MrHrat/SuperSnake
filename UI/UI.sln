@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UI", "UI\UI.csproj", "{9691
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game_core", "..\Game_core\Game_core.csproj", "{C746471E-877B-46A6-9145-5D8BE7AF9B4A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User_algorithm", "..\User_algorithm\User_algorithm.csproj", "{2DEEA97A-AA77-4EFB-9862-F43B26A5AB8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{C746471E-877B-46A6-9145-5D8BE7AF9B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C746471E-877B-46A6-9145-5D8BE7AF9B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C746471E-877B-46A6-9145-5D8BE7AF9B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DEEA97A-AA77-4EFB-9862-F43B26A5AB8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DEEA97A-AA77-4EFB-9862-F43B26A5AB8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DEEA97A-AA77-4EFB-9862-F43B26A5AB8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DEEA97A-AA77-4EFB-9862-F43B26A5AB8D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
